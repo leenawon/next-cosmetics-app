@@ -1,4 +1,3 @@
-import React from "react";
 // style
 import styles from "./GNB.module.css";
 

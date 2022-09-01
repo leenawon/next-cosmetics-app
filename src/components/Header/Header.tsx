@@ -1,4 +1,3 @@
-import React from "react";
 // style
 import styles from "./Header.module.css";
 // components
