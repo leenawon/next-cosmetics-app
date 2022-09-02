@@ -3,8 +3,8 @@ import "../styles/globals.css";
 import "../styles/variables.css";
 // components
 import type { AppProps } from "next/app";
-import Header from "../src/components/Header/Header";
-import Footer from "../src/components/Footer/Footer";
+import Header from "@/components/Header/Header";
+import Footer from "@/components/Footer/Footer";
 
 // 레이아웃을 만들기 위해서는 이 파일을 이용한다.
 // 페이지 전환 시 상태 값을 유지할 수 있다.
