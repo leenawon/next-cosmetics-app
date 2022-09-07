@@ -1,0 +1,15 @@
+.container {
+  width: 80%;
+}
+
+.menuList {
+  display: flex;
+  justify-content: space-around;
+  font-size: var(--large-size);
+}
+
+.menuItem:hover {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--pink-color);
+}
