@@ -1,0 +1,10 @@
+:root {
+  /* color */
+  --soft-pink-color: rgb(244, 215, 231);
+  --pink-color: rgb(236, 187, 214);
+  --white-color: #fff;
+  /* size */
+  --large-size: 18px;
+  --medium-size: 16px;
+  --small-size: 14px;
+}
