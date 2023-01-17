@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 25%;
+  cursor: pointer;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.name {
+  max-width: 150px;
+}
+
+@media (max-width: 991px) {
+  .wrapper {
+    margin: 0 20px;
+  }
+}
