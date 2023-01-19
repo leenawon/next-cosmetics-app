@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 83.4vh;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.content {
+  font-size: var(--large-size);
+  margin: 30px 0;
+}
+
+.name,
+.price,
+.description {
+  margin: 20px 0;
+  max-width: 60vw;
+}
+
+.description {
+  font-size: var(--medium-size);
+}
+
+.button {
+  background-color: var(--soft-pink-color);
+  color: var(--white-color);
+  padding: 10px 30px;
+  border-radius: 5px;
+  font-size: var(--medium-size);
+  cursor: pointer;
+}
